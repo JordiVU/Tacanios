@@ -4,6 +4,6 @@ Proyecto de Entornos basado en un sistema gestor de archivos de una empresa de r
 Analista:
 - Jordi Vázquez Uribe
 
-Desarroladores:
+Desarrolladores:
 - Santigo Colombian
 - Jorge Ramirez

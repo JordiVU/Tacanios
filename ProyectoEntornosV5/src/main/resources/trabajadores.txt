@@ -1,0 +1,3 @@
+Pintor;101;juan;123;Juan;Pérez;Decoración de interiores;25
+Albanyil;102;maria;456;María;Álvarez;Estructuras;Senior;10
+Administrador;103;admin;admin;Carlos;Gómez;carlos.gomez@redecor.com
